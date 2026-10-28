@@ -1,0 +1,22 @@
+{
+  "project": "Health360",
+  "dataset": "health360_synthetic_sample.csv",
+  "rows": 500,
+  "columns": [
+    "record_id",
+    "observation_date",
+    "age",
+    "age_group",
+    "sex",
+    "region",
+    "condition_category",
+    "systolic_bp_mmHg",
+    "diastolic_bp_mmHg",
+    "bmi_kg_m2",
+    "glucose_mg_dL",
+    "visits_last_12_months",
+    "demo_risk_band",
+    "data_source"
+  ],
+  "disclaimer": "All records are fictional synthetic data; not for clinical use."
+}
